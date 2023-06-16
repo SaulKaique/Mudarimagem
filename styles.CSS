@@ -1,0 +1,60 @@
+    html{
+        height: 100%;
+        width: 100%;
+
+
+    }
+
+
+
+h1{
+    position: absolute;
+    left: 600px;
+
+
+}
+
+img{
+        position: absolute;
+        left: 750px;
+        top: 150px;
+        size: 600px;
+       
+}
+
+#alt{
+        position: absolute;
+            height: 50px;
+            width: 120px;
+        left: 920px;
+        top: 360px;
+}
+
+body{
+    background-image: linear-gradient(to bottom left,rgb(96, 11, 136), rgb(18, 99, 192) );
+
+
+
+}
+
+img {
+    opacity: 1;
+    transition: opacity .5s ease-in-out;
+  }
+  
+  img:hover {
+    opacity: 0.5;
+  }
+
+
+
+
+  #alt:hover{
+    cursor: pointer;
+    
+    opacity: 0.8;
+
+    background-image: url(https://gifdb.com/images/high/beautiful-patterns-of-lightning-y9876tmtpwpcmvq0.gif);
+    background-position: center;
+
+}
