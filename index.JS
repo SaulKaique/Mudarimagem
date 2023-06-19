@@ -1,16 +1,16 @@
 localStorage.contador = 1;
 
-const mudar = ["https://media.tenor.com/6YMQBN7gUpEAAAAM/opa-fabio-de-luca.gif"
+const mudar = ["https://media1.tenor.com/images/c61b407257c30373b1c3c65cf6b79ea5/tenor.gif?itemid=18455293"
     ,"https://i.pinimg.com/originals/58/17/d3/5817d33cf9d8ce5af259e382cdc549de.gif"
-    , "https://cutewallpaper.org/28/city-pixel-gifs-wallpaper/animated-cyberpunk-wallpaper-gif-posted-by-zoey-anderson.gif"
-    , "https://magiagifs.com.br/wp-content/uploads/2019/08/gifs-anime26.gif"
-    , "https://media.tenor.com/Y_zcZcrB1XkAAAAC/anime.gif"
-    , "https://media.tenor.com/IumafqEjUOAAAAAd/boku-no-hero-my-hero-academia.gif"
-    , "https://media.tenor.com/7zFnc4Y3pqUAAAAd/vigilante-deku-deku.gif"
-    , "https://i.pinimg.com/originals/2a/cd/b9/2acdb9192f82fc1726058bb37e7a88aa.gif"
-    , "https://media.tenor.com/Lrg_CamXv08AAAAC/jujutsu-kaisen.gif"
-    , "https://i.pinimg.com/originals/21/ec/81/21ec81f8b13bb26b1a0f9c663f7a017f.gif"
-    , "https://giffiles.alphacoders.com/211/211338.gif"
+    , "https://i.pinimg.com/originals/f2/c7/00/f2c700fd02e7ba1ce2b084443f04821e.gif"
+    , "https://media.giphy.com/media/YWB6Hi29vA3jG/giphy.gif"
+    , "http://1.bp.blogspot.com/-To-gu1WUFCU/UXsH2GD3smI/AAAAAAAAALo/5fv5vP6wmlo/s1600/tumblr_mks12bP4gi1s4ugiyo2_500.gif"
+    , "https://i.pinimg.com/originals/05/9f/75/059f7521b362f303cc73cb63816a99b0.gif"
+    , "https://i.pinimg.com/originals/b0/4f/72/b04f72e1a05829ddc1184a7238e93660.gif"
+    , "https://i.kym-cdn.com/photos/images/original/001/128/524/0ea.gif"
+    , "https://i.pinimg.com/originals/5d/91/79/5d9179c904a9ff22a9eb6a7350e7aa85.gif"
+    , "https://i.pinimg.com/originals/80/6c/bd/806cbd3b30817193f6d95b400a1c6860.gif"
+    , "https://i.pinimg.com/originals/93/30/36/933036e449f1b3b67a46aa7fa7c110bf.gif"
 ];
 
 const imagem = document.getElementById("imagem");
